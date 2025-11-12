@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Mazen Mohamed</h1>
+<h1 align="center">Hi, I'm Mazen Mohamed 👋</h1>
 <h3 align="center">Data Analysis Developer 🧠 | Machine Learning Engineer 🤖</h3>
 
 <p align="center">

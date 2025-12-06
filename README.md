@@ -41,15 +41,25 @@
 ## 🧰 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,excel,sql,vscode," />
+  <!-- جميع الأيقونات من نفس المصدر للحصول على مظهر متجانس -->
+  <img src="https://img.icons8.com/color/96/000000/python.png" alt="Python" width="55" />
+  <img src="https://img.icons8.com/color/96/000000/mysql.png" alt="MySQL" width="55" />
+  <img src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png" alt="VS Code" width="55" />
+  <img src="https://skillicons.dev/icons?i=github" width="55" />
+  <img src="https://img.icons8.com/color/96/000000/microsoft-excel-2019.png" alt="Excel" width="55" />
+  <img src="https://img.icons8.com/color/96/000000/power-bi.png" alt="Power BI" width="55" />
+  <img src="https://img.icons8.com/color/96/000000/tableau-software.png" alt="Tableau" width="55" />
+
 </p>
 
-📊 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true&border_radius=10" width="48%" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=MazenMohamed506&theme=tokyonight&hide_border=true&border_radius=10" width="48%" /> </p>
 
-⚡️ Motto
+## ⚡️ Motto
 
-<p align="center"> 💬 Let's connect and make data tell stories! 📈 </p> <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100%" height="3px" /> 
+<p align="center"> 
+  💬 Let's connect and make data tell stories! 📈 </p> 
+<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100%" height="3px" /> 
 
 

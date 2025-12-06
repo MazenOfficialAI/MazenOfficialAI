@@ -15,17 +15,17 @@
   </a>
   
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/Mazen Mohamed" target="_blank">
+  <a href="https://www.linkedin.com/in/mazen-mohamed-766665393/" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
   
   <!-- Email -->
-  <a href="mailto:your.email@example.com">
+  <a href="mazen.business56@gmail.com.com">
     <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Email" width="40" height="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
   
   <!-- GitHub -->
-  <a href="https://github.com/MazenMohamed506" target="_blank">
+  <a href="https://github.com/MazenMohamed101" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub" width="40" height="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
 </p>
@@ -55,41 +55,20 @@
 <p align="center">
   <!-- جميع الأيقونات من نفس المصدر للحصول على مظهر متجانس -->
   <img src="https://img.icons8.com/color/96/000000/python.png" alt="Python" width="55" />
-  <img src="https://img.icons8.com/color/96/000000/mysql.png" alt="MySQL" width="55" />
-  <img src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png" alt="VS Code" width="55" />
-  <img src="https://skillicons.dev/icons?i=github" width="55" />
-  <img src="https://img.icons8.com/color/96/000000/microsoft-excel-2019.png" alt="Excel" width="55" />
-  <img src="https://img.icons8.com/color/96/000000/power-bi.png" alt="Power BI" width="55" />
-  <img src="https://img.icons8.com/color/96/000000/tableau-software.png" alt="Tableau" width="55" />
+  <img src="https://img.icons8.com/color/96/000000/mysql.png" alt="MySQL" width="55" /><img src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png" alt="VS Code" width="55" />
+  <img src="https://skillicons.dev/icons?i=github" width="55" /><img src="https://img.icons8.com/color/96/000000/microsoft-excel-2019.png" alt="Excel" width="55" />
+  <img src="https://img.icons8.com/color/96/000000/power-bi.png" alt="Power BI" width="55" /><img src="https://img.icons8.com/color/96/000000/tableau-software.png" alt="Tableau" width="55" />
 
 </p>
 
 ## 📊 GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=MazenMohamed506&theme=tokyonight&hide_border=true&border_radius=10" width="48%" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MazenMohamed101&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=MazenMohamed101&theme=tokyonight&hide_border=true&border_radius=10" width="48%" /> </p>
 
 ## ⚡️ Motto
 
 <p align="center"> 
   💬 Let's connect and make data tell stories! 📈 </p> 
-
-## 🚀 Featured Projects
-
-<table align="center">
-<tr>
-<td>
-<a href="https://github.com/MazenMohamed506/REPO_ONE">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MazenMohamed506&repo=REPO_ONE&theme=tokyonight" />
-</a>
-</td>
-
-<td>
-<a href="https://github.com/MazenMohamed506/REPO_TWO">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MazenMohamed506&repo=REPO_TWO&theme=tokyonight" />
-</a>
-</td>
-</tr>
-</table>
 
 <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100%" height="3px" /> 
 

@@ -22,30 +22,17 @@
 
 ## 🚀 About Me
 
-```python
-class MazenMohamed:
-    role = "Data Analyst & Machine Learning Engineer"
-    focus = "Transforming data into insights and intelligent models"
-    skills = [
-        "Python",
-        "Power BI",
-        "Machine Learning",
-        "Excel",
-        "Dashboard Design",
-        "Data Visualization"
-    ]
+- I'm Mazen, a Data Analyst & ML enthusiast who loves turning raw data into clear insights and smart models.  
+- I enjoy building dashboards, training machine learning models, and improving the way data tells stories.  
+- Always learning, always exploring — data is my language. 📊🤖
 
-    def say_hi():
-        print("Let's make data speak 📊")
 
-```
-
-## 🔥 Highlights
+## 🎯 Current Focus
 
 - 📊 Skilled at analyzing and visualizing complex datasets  
-- 🤖 Building and training machine learning models  
 - 📈 Experienced in Power BI and interactive dashboards  
-- 🧩 Strong background in data cleaning and preprocessing  
+- 🧩 Strong background in data cleaning and preprocessing
+- 🤖 Building and training machine learning models  
 - 💡 Passionate about turning data into decisions  
 - 🚀 Always exploring new tools and AI techniques
 
@@ -60,14 +47,6 @@ class MazenMohamed:
 📊 GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true&border_radius=10" width="48%" /> </p>
-
-🎯 Current Focus
-
-🧠 Building smarter machine learning models
-📊 Creating beautiful and informative dashboards
-📈 Improving data storytelling and presentation
-🧾 Exploring Power BI, Pandas, and advanced analytics
-🌍 Sharing knowledge about data science in Arabic
 
 ⚡️ Motto
 

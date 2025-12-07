@@ -1,12 +1,7 @@
 <h1 align="center">Hi, I'm Mazen Mohamed 👋</h1>
-<h3 align="center">Data Analysis Developer 🧠 | Machine Learning Engineer 🤖</h3>
+<h3 align="center">Data Analyist & Scientist Developer 🧠 | Machine Learning Devoleber 🤖</h3>
 
 
-<h4 align="center">Contact me 👇</h4>
-
-  
-
-</p>
 
 <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100%" height="3px" />
 

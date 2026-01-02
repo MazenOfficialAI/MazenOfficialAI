@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Mazen Mohamed</h1>
-<h3 align="center">Data Analyst & Scientist</h3>
+<h3 align="center">AI Student | Data Analyst & Scientist | BI Developer</h3>
 
 ### Contact Me 👇
 

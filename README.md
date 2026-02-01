@@ -1,5 +1,11 @@
 <h1 align="center">👋 Hi, I'm Mazen Mohamed</h1>
-<h3 align="center">AI Student | Data Analyst & Scientist | BI Developer</h3>
+<h3 align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=2000&color=00FFFF&center=true&vCenter=true&width=700&lines=Data+Analyst+Student;Data+Visualization;Aspiring+Data+Engineer" 
+  />
+</h3>
+
+
 
 ### Contact Me 👇
 
